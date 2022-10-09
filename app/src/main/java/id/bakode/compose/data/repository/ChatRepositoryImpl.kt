@@ -1,6 +1,6 @@
 package id.bakode.compose.data.repository
 
-class ChatRepositoryImpl : ChatRepositoryContract {}
+class ChatRepositoryImpl : ChatRepositoryContract
 
 
 //

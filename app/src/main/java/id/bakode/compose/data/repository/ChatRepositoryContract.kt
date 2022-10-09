@@ -4,4 +4,4 @@ package id.bakode.compose.data.repository
 // CHAT DETAIL
 // SEND MESSAGE
 // ...
-interface ChatRepositoryContract {}
+interface ChatRepositoryContract

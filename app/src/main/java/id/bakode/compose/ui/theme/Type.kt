@@ -24,27 +24,27 @@ val Typography = Typography(
                 lineHeight = 44.sp
         ),
         headlineLarge = TextStyle(
-                fontWeight = FontWeight.W400,
+                fontWeight = FontWeight.W700,
                 fontSize = 32.sp,
                 lineHeight = 40.sp
         ),
         headlineMedium = TextStyle(
-                fontWeight = FontWeight.W400,
+                fontWeight = FontWeight.W700,
                 fontSize = 28.sp,
                 lineHeight = 36.sp
         ),
         headlineSmall = TextStyle(
-                fontWeight = FontWeight.W400,
+                fontWeight = FontWeight.W700,
                 fontSize = 17.sp,
                 lineHeight = 32.sp
         ),
         titleLarge = TextStyle(
-                fontWeight = FontWeight.W700,
+                fontWeight = FontWeight.W600,
                 fontSize = 20.sp,
                 lineHeight = 28.sp
         ),
         titleMedium = TextStyle(
-                fontWeight = FontWeight.W700,
+                fontWeight = FontWeight.W600,
                 fontSize = 16.sp,
                 lineHeight = 24.sp,
                 letterSpacing = 0.1.sp

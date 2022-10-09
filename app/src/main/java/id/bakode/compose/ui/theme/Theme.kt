@@ -13,8 +13,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 
 private val DarkColorScheme = darkColorScheme(
-    primary = DARK_GREEN200,
-    primaryContainer = DARK_GREEN300,
+    primary = Color.White,
+    primaryContainer = Color.LightGray,
     secondary = GREEN500,
     background = DARK_GREEN300,
     tertiary = WHITE200,
@@ -22,8 +22,8 @@ private val DarkColorScheme = darkColorScheme(
 )
 
 private val LightColorScheme = lightColorScheme(
-    primary = GREEN500,
-    primaryContainer = GREEN700,
+    primary = Color.Black,
+    primaryContainer = Color.DarkGray,
     secondary = GREEN300,
     background = WHITE200,
     tertiary = WHITE200,
@@ -32,7 +32,7 @@ private val LightColorScheme = lightColorScheme(
 
 private val LightBackgroundTheme = BackgroundTheme(color = Color.White)
 
-private val DarkBackgroundTheme = BackgroundTheme(color = DARK_GREEN300)
+private val DarkBackgroundTheme = BackgroundTheme(color = Color.Black)
 
 @Composable
 fun ExpComposeTheme(

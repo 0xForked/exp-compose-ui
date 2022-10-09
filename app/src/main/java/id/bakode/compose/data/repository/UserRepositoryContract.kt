@@ -6,4 +6,4 @@ package id.bakode.compose.data.repository
 // RESET PASSWORD
 // PROFILE/USER DETAIL
 // ...
-interface UserRepositoryContract {}
+interface UserRepositoryContract

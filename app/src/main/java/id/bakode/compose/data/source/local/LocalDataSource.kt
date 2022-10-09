@@ -4,4 +4,4 @@ package id.bakode.compose.data.source.local
 //    entities = [],
 //    version = 1
 //)
-abstract class LocalDataSource {}
+abstract class LocalDataSource
