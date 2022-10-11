@@ -32,7 +32,7 @@ private val LightColorScheme = lightColorScheme(
 
 private val LightBackgroundTheme = BackgroundTheme(color = Color.White)
 
-private val DarkBackgroundTheme = BackgroundTheme(color = Color.Black)
+private val DarkBackgroundTheme = BackgroundTheme(color = DARK_GREEN200)
 
 @Composable
 fun ExpComposeTheme(

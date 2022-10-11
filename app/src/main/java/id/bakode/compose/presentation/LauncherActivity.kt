@@ -33,7 +33,6 @@ class LauncherActivity : ComponentActivity() {
         this@LauncherActivity.navigateNextPage()
     }
 
-
     private fun navigateNextPage() {
         lifecycleScope.launchWhenCreated {
             delay(3000L)
